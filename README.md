@@ -1,2 +1,0 @@
-# Practice
-Yum Yum
